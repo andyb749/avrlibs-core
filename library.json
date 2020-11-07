@@ -1,6 +1,6 @@
 {
     "name": "avrlibs-core",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Core functions for AVR8 Mega and Tiny microcontrollers",
     "keywords": "Microchip, Atmel, AVR, GPIO, Stdio, UART",
     "repository": {
