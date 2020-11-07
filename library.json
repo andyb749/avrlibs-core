@@ -9,7 +9,9 @@
     },
     "export": {
         "include": [
-            "src/*"
+            "src/*.c",
+            "src/*.cpp",
+            "src/*.h"
         ]
     },
     "authors": [
